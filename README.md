@@ -21,10 +21,13 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 ---
 ## Support BY :
 
-* **Dosen Pengampu :** Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
-* **Mata kuliah :** Mikrokontroller
-* **Program Studi :** D4 Teknik Elektronika
-* **Politeknik Elektronika Negeri Surabaya**
+<ul style="color: #8b949e;">
+  <li>Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)</li>
+  <li>Mata kuliah : Workshop Mikrokontroller</li>
+  <li>Program Studi : D3 Teknik Elektronika</li>
+  <li>Politeknik Elektronika Negeri Surabaya</li>
+</ul>
+
 
 
 #  Anggota Tim
