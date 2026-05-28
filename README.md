@@ -10,7 +10,7 @@
 
 | NRP | Nama | Jobdesk | Akun |
 |-----|------|---------|------|
-| XXXXXXXXX | Nama Kamu | Project Manager | [@username](https://github.com/username) |
+| 2124600030 | Aidabn Pasha Rabani | Project Manager | https://github.com/Aidan031 |
 | XXXXXXXXX | Nama Anggota 2 | Hardware Specialist | [@username](https://github.com/username) |
 | XXXXXXXXX | Nama Anggota 3 | Programmer | [@username](https://github.com/username) |
 | XXXXXXXXX | Nama Anggota 4 | UI/UX Designer | [@username](https://github.com/username) |
