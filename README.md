@@ -21,7 +21,7 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 
 | NRP | Nama | Jobdesk | Akun |
 |-----|------|---------|------|
-| 2124600030 | Aidan Pasha Rabani | Project Manager | [@Aidan031](https://github.com/Aidan031) |
+| 2124600030 | Aidan Pasha Rabani | Project Manager | [Aidan031](https://github.com/Aidan031) |
 | 2124600051 | M Ridho Andika | Hardware Specialist |[@Ridhoandika112].(https://github.com/Ridhoandika112)|
 | 2124600058 | M Reihan Maulana | Programmer | [@reihaaannn](https://github.com/reihaaannn) |
 | 2124600043 | Sabrina Keisha Maharani | UI/UX Designer | [@sabrinakeisha](https://github.com/sabrinakeisha) |
