@@ -10,7 +10,7 @@ Proyek ini memanfaatkan mikrokontroler Arduino Mega (ATMega2560) sebagai platfor
 ---
 
 # Tujuan Proyek
-
+Membangun sistem otomatisasi pemberian pakan ikan berbasis mikrokontroler Arduino Mega yang dapat bekerja secara terjadwal, memantau kualitas air secara real-time, serta memungkinkan pengendalian dan pemantauan jarak jauh melalui dashboard web.
 
 
 
