@@ -1,5 +1,7 @@
 #  AquaFeed — Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
 
+# Deskripsi Proyek
+
 
 **GitHub**: https://github.com/USERNAME/aquafeed-iot
 
