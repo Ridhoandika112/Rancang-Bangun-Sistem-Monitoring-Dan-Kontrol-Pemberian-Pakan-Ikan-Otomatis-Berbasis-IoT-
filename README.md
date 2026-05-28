@@ -5,7 +5,7 @@
 
 
 # Deskripsi Proyek
-Menggunakan mikrokontroler ESP32, sensor suhu DS18B20, sensor pH, motor servo, 
+Menggunakan mikrokontroler Arduino Mega (ATMega2560), sensor suhu DS18B20, sensor pH, motor servo, 
 dan modul RTC DS3231 untuk mengotomatisasi jadwal pemberian pakan ikan. 
 Data kondisi air (suhu, pH) dikirim ke dashboard berbasis web yang dapat 
 diakses dari jarak jauh melalui koneksi internet. Pengguna juga dapat 
