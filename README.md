@@ -22,8 +22,8 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 ## Support By
 
 - Dosen Pengampu: Akhmad Hendriawan ST., MT. (NIP. 197501272002121003)
-- Mata Kuliah: Workshop Mikrokontroller
-- Program Studi: D3 Teknik Elektronika
+- Mata Kuliah: Mikrokontroller
+- Program Studi: D4 Teknik Elektronika
 - Politeknik Elektronika Negeri Surabaya
 
 
