@@ -1,7 +1,7 @@
 
 
 
-#  AquaFeed Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
+#  Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
 
 
 # Deskripsi Proyek
