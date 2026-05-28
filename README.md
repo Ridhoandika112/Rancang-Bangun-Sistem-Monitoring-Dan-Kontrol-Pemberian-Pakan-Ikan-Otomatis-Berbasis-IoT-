@@ -1,18 +1,17 @@
-# 🐟 AquaFeed — Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
+#  AquaFeed — Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
 
-![Logo AquaFeed](./assets/logo.png)
 
 **GitHub**: https://github.com/USERNAME/aquafeed-iot
 
 ---
 
-## 👥 Anggota Tim
+##  Anggota Tim
 
 | NRP | Nama | Jobdesk | Akun |
 |-----|------|---------|------|
-| 2124600030 | Aidabn Pasha Rabani | Project Manager | https://github.com/Aidan031 |
+| 2124600030 | Aidabn Pasha Rabani | Project Manager | Aidan031 |
 | XXXXXXXXX | Nama Anggota 2 | Hardware Specialist | [@username](https://github.com/username) |
-| XXXXXXXXX | Nama Anggota 3 | Programmer | [@username](https://github.com/username) |
+| 2124600058 | M Reihan Maulana | Programmer | reiihaaannn |
 | XXXXXXXXX | Nama Anggota 4 | UI/UX Designer | [@username](https://github.com/username) |
 | XXXXXXXXX | Nama Anggota 5 | 3D Designer | [@username](https://github.com/username) |
 
