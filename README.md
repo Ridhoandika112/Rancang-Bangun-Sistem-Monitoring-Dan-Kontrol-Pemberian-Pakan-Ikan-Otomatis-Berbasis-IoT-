@@ -41,19 +41,6 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 ---
 
 
-# 🐟 AquaFeed IoT - Sistem Pemberi Pakan Ikan Otomatis
 
-![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-green)
-![Status](https://img.shields.io/badge/Project-In%20Development-yellow)
 
-AquaFeed IoT adalah solusi berbasis Internet of Things untuk mempermudah pemantauan kualitas air dan otomatisasi pemberian pakan ikan secara real-time jarak jauh.
-
-## 🚀 Fitur Utama
-* **📅 Automated Feeding:** Penjadwalan pakan presisi berbasis waktu (NTP Server).
-* **📱 Manual Override:** Tombol instan pada aplikasi untuk memberi pakan kapan saja.
-* **📊 Feed Level Monitor:** Deteksi sisa pakan di wadah menggunakan sensor ultrasonik.
-* **🌡️ Water Environment Analytics:** Monitoring suhu air demi menjaga ekosistem kolam yang ideal.
-
-## 🛠️ Arsitektur Sistem
-*(Masukkan gambar diagram blok sistem atau skematik hardware di sini)*
+ 
