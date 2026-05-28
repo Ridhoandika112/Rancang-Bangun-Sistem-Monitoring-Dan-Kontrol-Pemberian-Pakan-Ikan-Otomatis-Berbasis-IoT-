@@ -5,11 +5,7 @@
 
 
 # Deskripsi Proyek
-Menggunakan mikrokontroler Arduino Mega (ATMega2560), sensor suhu DS18B20, sensor pH, motor servo, 
-dan modul RTC DS3231 untuk mengotomatisasi jadwal pemberian pakan ikan. 
-Data kondisi air (suhu, pH) dikirim ke dashboard berbasis web yang dapat 
-diakses dari jarak jauh melalui koneksi internet. Pengguna juga dapat 
-mengontrol pemberian pakan secara manual melalui aplikasi.
+Proyek ini memanfaatkan mikrokontroler Arduino Mega (ATMega2560) sebagai platform utama, yang terintegrasi dengan beberapa sensor dan aktuator, yaitu sensor suhu air DS18B20, sensor pH, motor servo sebagai mekanisme pembuka pakan, serta modul RTC DS3231 untuk pengaturan dan penjadwalan waktu yang presisi. Sistem ini bertujuan untuk mengotomatisasi proses pemberian pakan ikan sesuai jadwal yang telah ditentukan. Data parameter kualitas air (suhu dan pH) akan dikirimkan secara kontinu ke sebuah dashboard web yang dapat diakses dari jarak jauh melalui internet. Selain fitur otomatisasi, sistem juga menyediakan fasilitas kontrol manual melalui aplikasi mobile atau web, sehingga pengguna tetap dapat mengintervensi pemberian pakan secara langsung sesuai kebutuhan.
 
 ---
 
