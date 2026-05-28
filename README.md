@@ -1,7 +1,7 @@
 
 
 
-#  Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
+#  Sistem Pakan Ikan Otomatis Berbasis IoT
 
 
 # Deskripsi Proyek
