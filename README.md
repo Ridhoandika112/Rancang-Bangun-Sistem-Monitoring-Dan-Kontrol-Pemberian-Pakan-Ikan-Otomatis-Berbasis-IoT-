@@ -1,4 +1,4 @@
-<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/56f778ab-a892-4e5e-8daf-25fa4eecfbcb" />
+![Logo AquaFeed](./assets/aquafeed_logo.svg)
 
 
 #  AquaFeed Sistem Monitoring & Kontrol Pemberian Pakan Ikan Otomatis Berbasis IoT
