@@ -16,9 +16,16 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 # Tujuan Proyek
 
 
-**GitHub**: https://github.com/USERNAME/aquafeed-iot
+
 
 ---
+## Support BY :
+
+* **Dosen Pengampu :** Akhmad Hendriawan ST., MT. (NIP.197501272002121003)
+* **Mata kuliah :** Mikrokontroller
+* **Program Studi :** D4 Teknik Elektronika
+* **Politeknik Elektronika Negeri Surabaya**
+
 
 #  Anggota Tim
 
