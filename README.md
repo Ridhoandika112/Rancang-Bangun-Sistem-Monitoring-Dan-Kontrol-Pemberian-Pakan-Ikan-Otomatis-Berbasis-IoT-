@@ -17,7 +17,7 @@ mengontrol pemberian pakan secara manual melalui aplikasi.
 
 ---
 
-##  Anggota Tim
+#  Anggota Tim
 
 | NRP | Nama | Jobdesk | Akun |
 |-----|------|---------|------|
