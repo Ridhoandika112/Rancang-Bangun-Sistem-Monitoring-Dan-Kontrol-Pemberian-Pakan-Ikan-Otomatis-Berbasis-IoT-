@@ -32,7 +32,8 @@ Membangun sistem otomatisasi pemberian pakan ikan berbasis mikrokontroler Arduin
 | 2124600058 | M Reihan Maulana | Programmer | [reihaaannn](https://github.com/reihaaannn) |
 | 2124600043 | Sabrina Keisha Maharani | UI/UX Designer | [sabrinakeisha](https://github.com/sabrinakeisha) |
 | 2124600051 | M Ridho Andika | 3D Designer | [Ridhoandika112](https://github.com/Ridhoandika112) |
-| 2124600035 | Setyo Wahyu Nur F | Hardware Specialist |  |
+| 2124600035 | Setyo Wahyu Nur F | Hardware Specialist |[bopengfirmansyah-sketch](https://github.com/bopengfirmansyah-sketch)|
+
 
 ---
 
